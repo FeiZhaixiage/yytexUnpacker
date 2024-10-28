@@ -2,10 +2,8 @@
 
 Unpack texture files from **YYTEXT** used in **GameMaker**.
 
-## Usage
-
-```bash
-yytexUnpacker.exe [file]
+### Usage
+    yytexUnpacker.exe [file]
 
 ## Special thanks
 
